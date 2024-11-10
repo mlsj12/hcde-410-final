@@ -8,4 +8,4 @@ The two sources are:
 
 Each file is labeled per the assignment instuctions and such have nuanced titles. Here I will depict what each file contains:
 
-- <bold>A4:</bold> This file is the first of the final project assignments as a preliminary proposal. Here I write my problem statement and motivations for such a project. I also include the datasets I plan on using, which may change as I tweak my actual analysis goal. Lastly, I write the unknowns and dependencies I have and what is out of my control that will possibly effect my completion of this final assignment and research study. 
+- <bold>A4+A5:</bold> This file is the first and second part of the final project assignment. A4 was the preliminary proposal while A5 is the final proposal. Here I write the overview of my project, the data I will use, the background and related work, unknowns and dependencies that may effect the completion of the project, and my methodology. 
